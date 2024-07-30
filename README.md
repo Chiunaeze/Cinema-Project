@@ -1,2 +1,2 @@
-# Cinema-Project
-Analysis of a cinema dataset and visualization of insights
+
+Analysis of a cinema dataset and visualization of insights. The dataset contains information about various movie types and TV shows. The data was thoroughly cleaned before generation of information. Insights generated from the analysis include the most popular director, most frequent time (day, month and year), best movie choice as well as movie trend over the years. Visualization was done using matplotlib and seabon.
